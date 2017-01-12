@@ -16,7 +16,8 @@
     ]
   },
   "files": [
-    "app/app.module.ts",
+    // "app/app.module.ts",
+    // "app/home/home.module.ts",
     "main-aot.ts"
   ],
 
