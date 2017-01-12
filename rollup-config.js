@@ -16,6 +16,7 @@ export default {
       nodeResolve({jsnext: true, module: true}),
       commonjs({
         include: 'node_modules/rxjs/**',
-      })
+      }),
+      uglify()
   ]
 }
